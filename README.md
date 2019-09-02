@@ -104,7 +104,7 @@ For this to work you need grant on UTL_FILE.<br/>
 ## About me
 Andrej Grlica<br/>
 I’m a oracle apex developer since 2008.<br/>
-Work email : [andrej.grlica@abakus.si](mailto:andrej.grlica@abakus.si)<br/>
+Work email : [andrej.grlica@right-thing.solutions](mailto:andrej.grlica@right-thing.solutions)<br/>
 Private email : [andrej.grlica@gmail.com](mailto:andrej.grlica@gmail.com)<br/>
 Twitter : [@AndrejGrlica](https://twitter.com/AndrejGrlica)<br/>
 Linked-in : [Link](https://www.linkedin.com/in/andrej-grlica-303998a4/)<br/>
